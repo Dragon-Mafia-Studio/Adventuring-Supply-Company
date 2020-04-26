@@ -8,6 +8,8 @@ Adventuring Supply Company is a single-player business simulation game where you
 
 The game was created by Dragon Mafia Studio, a team made up of Ball State students Austin Tinkel​​, Daniel Gonzalez, Josh Johannsen, Katelynn Gossage, Matt Schrag, and Zachary Hughes as part of a project for the CS 490: Software Development Studio in the Spring 2020 semester.
 
+[Download the executable here](https://artinkel.itch.io/adventuring-supply-company)
+
 ## License
 
 The project source code is licensed under [GNU GPL Version 3 License](https://www.gnu.org/licenses/gpl-3.0.en.html). See the [LICENSE](LICENSE) file for details.
