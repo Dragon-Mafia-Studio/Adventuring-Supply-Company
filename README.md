@@ -17,8 +17,8 @@ The project source code is licensed under [GNU GPL Version 3 License](https://ww
 Original Assets are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Public Domain and [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) Assets:
-* Cash Register sound
-* Doorbell sound
-* Button click sound
+* [Cash Register Purchase sound](https://freesound.org/people/Zott820/sounds/209578/)
+* [Bell ringing sound](https://freesound.org/people/danarobinsondesignsgmailcom/sounds/377639/)
+* [Wet click sound](https://freesound.org/people/Breviceps/sounds/448080/)
 
 &copy;2020 Dragon Mafia Studio
