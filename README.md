@@ -6,7 +6,7 @@ So, when the Dragon Mafioso offered you a deal to run a shop, you signed instant
 
 Adventuring Supply Company is a single-player business simulation game where you buy and sell items while dealing with events that happen while running a shop in a fantasy world. However, you also owe a dragon a lot of money, and must pay the installment at the end of the day, or else.
 
-The game was created by Dragon Mafia Studio, a team made up of Ball State students [Austin Tinkel](https://austin-tinkel.com), Daniel Gonzalez, Josh Johannsen, Katelynn Gossage, Matt Schrag, and Zachary Hughes as part of a project for the CS 490: Software Development Studio in the Spring 2020 semester.
+The game was created by Dragon Mafia Studio, a team made up of Ball State University students [Austin Tinkel](https://austin-tinkel.com), Daniel Gonzalez, Josh Johannsen, Katelynn Gossage, Matt Schrag, and Zachary Hughes as part of a project for the CS 490: Software Development Studio in the Spring 2020 semester.
 
 [Download the executable here](https://artinkel.itch.io/adventuring-supply-company)
 
