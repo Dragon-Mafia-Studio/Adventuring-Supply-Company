@@ -14,4 +14,11 @@ The game was created by Dragon Mafia Studio, a team made up of Ball State studen
 
 The project source code is licensed under [GNU GPL Version 3 License](https://www.gnu.org/licenses/gpl-3.0.en.html). See the [LICENSE](LICENSE) file for details.
 
+Original Assets are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+Public Domain and [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) Assets:
+* Cash Register sound
+* Doorbell sound
+* Button click sound
+
 &copy;2020 Dragon Mafia Studio
